@@ -13,4 +13,4 @@ app.listen(port, function() {
 });
 // }).listen(1337, "127.0.0.1");
 //sets port and IP address of the server
-console.log('Server running at http://127.0.0.1:1337/');
+console.log('Server running...');
