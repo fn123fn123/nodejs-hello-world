@@ -4,6 +4,7 @@
   "dependencies": {
     "connect": "2.x",
     "serve-static": "1.x",
+    "newrelic": "2.x",
     "@newrelic/native-metrics": "^2.1.0"
   },
   "engines": {
